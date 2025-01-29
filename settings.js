@@ -12,9 +12,9 @@ const { version } = require("./package.json")
 
 
 //======= Change settings =======\\
-global.owner = "2347036214381"
+global.owner = "923107552846"
 global.botname = "αrch md"
-global.ownername = ""
+global.ownername = "King Wolfy"
 global.simbol = "♘"
 global.typeMenu = 'v1' //don't change 
 global.anticall = false // set true to turn anticall always on
